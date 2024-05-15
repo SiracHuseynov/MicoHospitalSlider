@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|solutionrelative:micohospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|solutionrelative:micohospital\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|solutionrelative:micohospital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital\\viewmodels\\slidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|solutionrelative:micohospital\\viewmodels\\slidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|solutionrelative:micohospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|solutionrelative:micohospital\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|solutionrelative:micohospital\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|solutionrelative:micohospital\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3965B430-0DD4-4153-A28C-FDF6E75EAB74}|MicoHospital\\MicoHospital.csproj|solutionrelative:micohospital\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD8EA06-C4CF-409D-83E2-E6CDC458F75E}|MicoHospital.Business\\MicoHospital.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD8EA06-C4CF-409D-83E2-E6CDC458F75E}|MicoHospital.Business\\MicoHospital.Business.csproj|solutionrelative:micohospital.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD8EA06-C4CF-409D-83E2-E6CDC458F75E}|MicoHospital.Business\\MicoHospital.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\micohospital\\micohospital.business\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD8EA06-C4CF-409D-83E2-E6CDC458F75E}|MicoHospital.Business\\MicoHospital.Business.csproj|solutionrelative:micohospital.business\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderVm.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\ViewModels\\SliderVm.cs",
+              "RelativeDocumentMoniker": "MicoHospital\\ViewModels\\SliderVm.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\ViewModels\\SliderVm.cs",
+              "RelativeToolTip": "MicoHospital\\ViewModels\\SliderVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:07:38.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MicoHospital\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MicoHospital\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:04:24.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MicoHospital\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MicoHospital\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T20:00:41.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MicoHospital\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MicoHospital\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:57:50.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MicoHospital\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MicoHospital\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:55:13.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MicoHospital\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MicoHospital\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:52:38.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Program.cs",
+              "RelativeDocumentMoniker": "MicoHospital\\Program.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Program.cs",
+              "RelativeToolTip": "MicoHospital\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwDUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:34:06.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MicoHospital\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MicoHospital\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowFUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:31:20.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital.Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "MicoHospital.Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital.Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "MicoHospital.Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:23:35.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital.Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeDocumentMoniker": "MicoHospital.Business\\Services\\Concretes\\SliderService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital.Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeToolTip": "MicoHospital.Business\\Services\\Concretes\\SliderService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wEUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:22:59.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "MicoHospital\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\MicoHospital\\MicoHospital\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "MicoHospital\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:22:55.574Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

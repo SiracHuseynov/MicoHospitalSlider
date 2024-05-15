@@ -1,0 +1,17 @@
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\bin\Debug\net8.0\MicoHospital.Business.deps.json
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\bin\Debug\net8.0\MicoHospital.Business.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\bin\Debug\net8.0\MicoHospital.Business.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\bin\Debug\net8.0\MicoHospital.Core.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\bin\Debug\net8.0\MicoHospital.Data.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\bin\Debug\net8.0\MicoHospital.Data.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\bin\Debug\net8.0\MicoHospital.Core.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\obj\Debug\net8.0\MicoHospital.Business.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\obj\Debug\net8.0\MicoHospital.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\obj\Debug\net8.0\MicoHospital.Business.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\obj\Debug\net8.0\MicoHospital.Business.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\obj\Debug\net8.0\MicoHospital.Business.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\obj\Debug\net8.0\MicoHosp.CF0E82FA.Up2Date
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\obj\Debug\net8.0\MicoHospital.Business.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\obj\Debug\net8.0\refint\MicoHospital.Business.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\obj\Debug\net8.0\MicoHospital.Business.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\MicoHospital\MicoHospital.Business\obj\Debug\net8.0\ref\MicoHospital.Business.dll
